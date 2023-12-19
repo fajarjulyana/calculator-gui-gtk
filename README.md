@@ -1,5 +1,5 @@
 # calculator-gui-gtk
-
+<img src="capture/capture.gif">
 Certainly! Below is a basic template for a `README.md` file that you can use for your GTK Calculator project. You may want to customize it further based on the specifics of your project.
 # GTK Calculator
 
